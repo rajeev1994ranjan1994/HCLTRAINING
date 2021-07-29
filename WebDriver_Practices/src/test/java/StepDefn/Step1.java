@@ -27,7 +27,7 @@ public class Step1 {
 	@When("^enter username and password$")
 	public void enter_username_and_password() {
 	    // Write code here that turns the phrase above into concrete actions
-		driver.
+		
 	 
 	}
 }
